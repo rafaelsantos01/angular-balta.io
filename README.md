@@ -3,13 +3,10 @@
 
 
 <div style="display: inline_block">
-
-
- <img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor" />
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor" />
 <img src = "https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
 <img src = "https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" />
 <img src = "https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor" />
-  
 </div>
 
 
