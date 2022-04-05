@@ -46,7 +46,7 @@ https://youtu.be/FWfPmknGArQ
     </td>
     <td align = "center">
       <a href="https://balta.io/">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCgnACLvM9O5lfm9ZBh_d3cg&psig=AOvVaw0Dwt0OFLQ3yAYskhygdPTD&ust=1649254354934000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKDv5teM_fYCFQAAAAAdAAAAABAD"width="100px;" alt=""/><br>
+        <img src="https://user-images.githubusercontent.com/83642989/161773820-d6e69021-8098-4742-ac0d-085304e81c94.jpg"width="100px;" alt=""/><br>
            <sub>
           <b>Balta IO</b>
         </sub>
