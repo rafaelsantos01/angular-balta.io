@@ -25,7 +25,7 @@
 
 <h2>:newspaper: Seções</h2>
 <p>O site é composto por quatro seções :
-<li><b>Início</b>: O projeto possui aapenas a tela principal, com objetivo simples de cadastrar,listar,alterar e excluir uma tarefa. O armazenamento das
+<li><b>Início</b>: O projeto possui apenas a tela principal, com objetivo simples de cadastrar, listar, alterar e excluir uma tarefa. O armazenamento das
   informaçoes fica salvo no armazenamento local do navegador;</li>
 
 
