@@ -11,13 +11,13 @@
 
 
  <img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor" />
-
-  
-</div>
-
 <img src = "https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
 <img src = "https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" />
 <img src = "https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor" />
+  
+</div>
+
+
 <img src ="https://user-images.githubusercontent.com/83642989/161524813-eb407c67-12e7-448f-b2f8-0751cf5109a2.png" />
 
 <div style="display: inline_block">
