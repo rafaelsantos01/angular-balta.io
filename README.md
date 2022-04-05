@@ -10,7 +10,7 @@
 </div>
 
 
-<img src ="![Uploading Screenshot_2.png…]()" />
+<img src ="https://github.com/rafaelsantos01/angular-balta.io/issues/1#issue-1193175762" />
 
 <div style="display: inline_block">
   
