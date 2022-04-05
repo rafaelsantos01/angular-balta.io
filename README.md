@@ -21,7 +21,7 @@
 </div>
 
 <h2>:bookmark_tabs: Descrição</h2>
-<p>Portfólio criado para mostrar um pouco dos meus projetos.</p>
+<p>Projeto feito para fins de estudo do framework.</p>
 
 <h2>:newspaper: Seções</h2>
 <p>O site é composto por quatro seções :
