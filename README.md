@@ -25,10 +25,9 @@
 
 <h2>:newspaper: Seções</h2>
 <p>O site é composto por quatro seções :
-<li><b>Início</b>: Nesta seção existe uma apresentação curta;</li>
-<li><b>Sobre mim</b>: Uma descrição a respeito de mim e daquilo que faço;</li>
-<li><b>Projetos</b>: Aqui é o espaço reservado para adicionar meus melhores projetos;</li>
-<li><b>Habilidades</b>: As tecnologias que eu já estudei e já tenho algum conhecimento prático.</li>
+<li><b>Início</b>: O projeto possui aapenas a tela principal, com objetivo simples de cadastrar,listar,alterar e excluir uma tarefa. O armazenamento das
+  informaçoes fica salvo no armazenamento local do navegador;</li>
+
 
 <h2>:hammer: Créditos</h2>
 <table>
